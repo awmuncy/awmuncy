@@ -1,4 +1,12 @@
-### Hi there 👋
+### Allen Muncy 👋
+
+(he/him/his)
+
+I am a full stack dev, and I rather enjoy building web applications. PWAs have a special place in my heart.
+
+TypeScript and JavaScript are home to me, and I have building using React for close to 7 years now. I'm as comfortable building DevOps pipelines as I am building web applications, and as comfortable with Mongo as I am with SQL. 
+
+You can reach me at allen@allenmuncy.com, or @AllenMuncy on X (formerly Twitter).
 
 <!--
 **awmuncy/awmuncy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
